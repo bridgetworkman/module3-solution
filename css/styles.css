@@ -1,0 +1,46 @@
+.navbar {
+  #background-color: #ff0000;
+  border-radius: 0;
+  border: 0;
+}
+
+h1 { 
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  text-align:center;
+  padding:0 0 30px 0;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand p { /* Kosher cert */
+  color: #000;
+  text-transform: uppercase;
+  font-size: .7em;
+  margin-top: 15px;
+}
+.navbar-brand p span { /* Star-K */
+  vertical-align: middle;
+}
+div.content{
+	border:1px solid #47525F;
+	background-color:#F8F8FF;
+	margin:5px;
+	font-family: 'Helvetica Neue', sans-serif;
+	color:#47525F;
+}
+.margin{
+	margin:5px;
+}
+.padding{
+	padding-top:50px;
+}
+.center{
+	text-align:center;
+	border-bottom: 1px solid #47525F;
+	width:100%;
+}
